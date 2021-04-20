@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <age>42</age>
+    <name>Willie Wildcat</name>
+    <pet>
+        <age>4</age>
+        <breed>Shorkie</breed>
+        <name>Reggie</name>
+    </pet>
+</person>
